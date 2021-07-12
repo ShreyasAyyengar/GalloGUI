@@ -1,0 +1,16 @@
+name: GalloGUI-inProd
+main: me.shreyasayyengar.gui.Main
+version: 7.2.3
+description: Menu GUI for a Private Server
+api-version: 1.17
+author: Shreyas#0001
+depend: [Essentials, mcMMO, DailyRewards]
+prefix: GalloGUI
+commands:
+  menu:
+    aliases: [gallo, gui, m, shreyasisthebestdevelopereveruwus]
+    description: Opens Up the Main GUI
+  warps:
+    description: Opens Up the Warps GUI
+  homes:
+    description: Opens Up the Homes GUI
